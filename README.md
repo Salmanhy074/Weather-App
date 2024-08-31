@@ -35,8 +35,6 @@ The Weather App is an Android application developed using **Kotlin** and **XML**
 
 - **🌦️ Real-Time Weather Updates**: Fetch and display current weather conditions including temperature, humidity, wind speed, and more.
 
-- **📅 Historical Data**: View past weather data to compare and analyze weather patterns.
-
 - **🌍 Global Coverage**: Access weather information for any location around the world.
 
 - **📱 Responsive Design**: The app is designed to be user-friendly across various devices, including tablets and smartphones.
