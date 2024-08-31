@@ -4,7 +4,7 @@
 
 Hey everyone, it’s **MUHAMMAD SALMAN** here!
 
-I'm excited to introduce our Weather App, a sleek Android application developed using **Java** and **XML**. This app provides real-time weather updates by integrating with a weather API, allowing users to access accurate and up-to-date information on temperature, humidity, wind speed, and more.
+I'm excited to introduce our Weather App, a sleek Android application developed using **Kotlin** and **XML**. This app provides real-time weather updates by integrating with a weather API, allowing users to access accurate and up-to-date information on temperature, humidity, wind speed, and more.
 
 **If you find this project helpful or interesting, please consider starring the repository on GitHub! Your support is greatly appreciated.**
 
@@ -29,7 +29,7 @@ I'm excited to introduce our Weather App, a sleek Android application developed 
 
 ## Introduction
 
-The Weather App is an Android application developed using **Java** and **XML**, with integration to a weather API. It offers real-time weather conditions, including temperature, humidity, and wind speed, providing users with accurate and up-to-date weather information.
+The Weather App is an Android application developed using **Kotlin** and **XML**, with integration to a weather API. It offers real-time weather conditions, including temperature, humidity, and wind speed, providing users with accurate and up-to-date weather information.
 
 ## Features
 
@@ -44,7 +44,7 @@ The Weather App is an Android application developed using **Java** and **XML**, 
 ## Technologies Used
 
 - **Frontend**: XML
-- **Backend**: Java
+- **Backend**: Kotlin
 - **API Integration**: Weather API (e.g., OpenWeatherMap)
 - **Networking**: Retrofit or similar library for API calls
 
@@ -52,17 +52,12 @@ The Weather App is an Android application developed using **Java** and **XML**, 
 
 - Android Studio
 - XML
-- Java
+- Kotlin
 - [Weather API Key](https://openweathermap.org/api) (or any other weather API)
 
 ## Screenshots
 
-<p align="center" style="overflow-x: auto; white-space: nowrap;">
-    <img src="https://github.com/user-attachments/assets/your-image-url-1" alt="Screenshot 1" width="200" style="display:inline-block; margin: 5px;">
-    <img src="https://github.com/user-attachments/assets/your-image-url-2" alt="Screenshot 2" width="200" style="display:inline-block; margin: 5px;">
-    <img src="https://github.com/user-attachments/assets/your-image-url-3" alt="Screenshot 3" width="200" style="display:inline-block; margin: 5px;">
-    <img src="https://github.com/user-attachments/assets/your-image-url-4" alt="Screenshot 4" width="200" style="display:inline-block; margin: 5px;">
-</p>
+
 
 ## Contributing
 
