@@ -54,8 +54,7 @@ The Weather App is an Android application developed using **Kotlin** and **XML**
 - [Weather API Key](https://openweathermap.org/api) (or any other weather API)
 
 ## Screenshots
-
-
+![w](https://github.com/user-attachments/assets/682bf8d8-5d71-4ac6-9f30-cad9bc1c0104)
 
 ## Contributing
 
