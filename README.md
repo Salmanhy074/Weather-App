@@ -41,8 +41,8 @@ The Weather App is an Android application developed using **Kotlin** and **XML**
 
 ## Technologies Used
 
-- **Frontend**: XML
-- **Backend**: Kotlin
+- **XML**
+- **Kotlin**
 - **API Integration**: Weather API (e.g., OpenWeatherMap)
 - **Networking**: Retrofit or similar library for API calls
 
